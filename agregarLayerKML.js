@@ -6,3 +6,7 @@
   });
 
   ctaLayer.setMap(map)
+map.setCenter(new google.maps.LatLng(-34.332321,-60.211002))
+map.setCenter()
+map.setZoom()
+
